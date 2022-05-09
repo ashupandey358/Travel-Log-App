@@ -1,13 +1,13 @@
-package com.ashucompany.travelLogApp;
+package com.travelingGuru.travellog;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TravelLogAppApplication {
+public class TravelLogAppRestApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TravelLogAppApplication.class, args);
+		SpringApplication.run(TravelLogAppRestApplication.class, args);
 	}
 
 }

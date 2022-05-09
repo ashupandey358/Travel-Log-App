@@ -1,10 +1,10 @@
-package com.ashucompany.travelLogApp;
+package com.travelingGuru.travellog;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TravelLogAppApplicationTests {
+class TravelLogAppRestApplicationTests {
 
 	@Test
 	void contextLoads() {
